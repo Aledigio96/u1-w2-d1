@@ -64,8 +64,8 @@ console.log(myName);*/
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
-
-subtraction = 4 - x;
+const numQ = 4;
+subtraction = numQ - x;
 console.log("la sottrazione tra 4 e 12 è:" + subtraction);
 
 /* ESERCIZIO 7
