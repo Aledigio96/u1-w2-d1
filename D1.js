@@ -17,7 +17,7 @@ REGOLE
 Sono semplicemente numeri senza le virgolette altrimenti diventerebbero stringhe poichè un numero tra virgolette assume il valore di parola (carattere). es: 5 è corretto ma "5" è sbagliato.
 -Boolean: contengono solamente due valori,true(vero) o false(falso), e possono essere usati per fare confronti tra due variabili. es: 10<20 è true(vero) ma 10>20 è false(falso).
 -Null: è un dato che viene assegnato dal programmatore e indica che la variabile non ha nessun valore assegnato. es: let x = null;
--Undefined: è un valore simile a Null ma questa volta viene assegnato direttamente dal programma ma comunque indica che una variabile non ha ancora nessun valore assegnato. 
+-Undefined: è un valore simile a Null ma questa volta viene assegnato direttamente dal programma ma comunque indica che una variabile non ha ancora nessun valore assegnato. */
 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
